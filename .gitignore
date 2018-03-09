@@ -1,0 +1,13 @@
+# renpy log
+log.txt
+
+# macOS file
+.DS_Store
+
+# renpy cache
+*.rpyc
+*.rpyb
+*.rpymc
+
+# renpy savefile
+game/saves/*
